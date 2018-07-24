@@ -1,4 +1,8 @@
-# Knowledge Based Telegram-Bot 
+# Knowledge-Based Telegram Bot 
+
+A Knowledge-based Telegram Bot. Final project for the course of NLP (A.Y. 2016/2017) at Sapienza University. 
+
+For a better understanding, look at the [assignment](./NLP_2017_Final_Project.pdf) and at the [report](./report.pdf).
 
 ## Installation
 Where not specified, I assume that the working directory of the terminal is the root of the project.
