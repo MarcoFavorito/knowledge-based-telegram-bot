@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.idea
+kbs/data/chatbot_maps.tar.gz
+kbs/data/db-bump.tar.gz
+kbs/data/patterns.zip
